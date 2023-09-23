@@ -1,5 +1,7 @@
 # Scrimba Personal Website
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/acd68790-1e31-43be-83c5-1e9b294da600/deploy-status)](https://app.netlify.com/sites/ebouchut-scrimba-personal-website/deploys)
+
 ## Quick start
 
 ```
